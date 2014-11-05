@@ -1,8 +1,4 @@
-﻿/*
- * 原作者: 李杰
- * 
- */
-using System;
+﻿using System;
 using System. Windows;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
