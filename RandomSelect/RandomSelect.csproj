@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F5CE9DA5-A6F5-44AA-8E7C-A6E3B4817184}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RandomSelect</RootNamespace>
+    <AssemblyName>RandomSelect</AssemblyName>
+    <TargetFrameworkIdentifier>WindowsPhone</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v8.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>RandomSelect_$(Configuration)_$(Platform).xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>RandomSelect.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <MinimumVisualStudioVersion>11.0</MinimumVisualStudioVersion>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|ARM' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\ARM\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|ARM' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\ARM\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Config.cs" />
+    <Compile Include="LocalizedStrings.cs" />
+    <Compile Include="Lython.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PivotPageAbout.xaml.cs">
+      <DependentUpon>PivotPageAbout.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\AppResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AppResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SettingPage.xaml.cs">
+      <DependentUpon>SettingPage.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PivotPageAbout.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SettingPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\ApplicationIcon.png" />
+    <Content Include="Assets\bing.jpg" />
+    <Content Include="Assets\Tiles\FlipCycleTileLarge.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\FlipCycleTileMedium.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\FlipCycleTileSmall.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\IconicTileMediumLarge.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\IconicTileSmall.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Dial\arr.png" />
+    <Content Include="Dial\arrow.png" />
+    <Content Include="Dial\dial_a.png" />
+    <Content Include="Dial\dial.png" />
+    <Content Include="Dice\dice.png" />
+    <Content Include="Icon\about.png" />
+    <Content Include="Icon\settings.png" />
+    <Content Include="Icon\skin.png" />
+    <Content Include="Icon\tab_2.png" />
+    <Content Include="Sound\dial.wav" />
+    <Content Include="Sound\dice.wav" />
+    <Content Include="Sound\poker.wav" />
+    <Content Include="Sound\liuhejing.wav" />
+    <Resource Include="Poker\14.png" />
+    <Resource Include="Poker\15.png" />
+    <Resource Include="Poker\16.png" />
+    <Resource Include="Poker\17.png" />
+    <Resource Include="Poker\18.png" />
+    <Resource Include="Poker\19.png" />
+    <Resource Include="Poker\20.png" />
+    <Resource Include="Poker\21.png" />
+    <Resource Include="Poker\22.png" />
+    <Resource Include="Poker\23.png" />
+    <Resource Include="Poker\24.png" />
+    <Resource Include="Poker\25.png" />
+    <Resource Include="Poker\26.png" />
+    <Resource Include="Poker\27.png" />
+    <Resource Include="Poker\28.png" />
+    <Resource Include="Poker\29.png" />
+    <Resource Include="Poker\30.png" />
+    <Resource Include="Poker\31.png" />
+    <Resource Include="Poker\32.png" />
+    <Resource Include="Poker\33.png" />
+    <Resource Include="Poker\34.png" />
+    <Resource Include="Poker\35.png" />
+    <Resource Include="Poker\36.png" />
+    <Resource Include="Poker\37.png" />
+    <Resource Include="Poker\38.png" />
+    <Resource Include="Poker\39.png" />
+    <Resource Include="Poker\40.png" />
+    <Resource Include="Poker\41.png" />
+    <Resource Include="Poker\42.png" />
+    <Resource Include="Poker\43.png" />
+    <Resource Include="Poker\44.png" />
+    <Resource Include="Poker\45.png" />
+    <Resource Include="Poker\46.png" />
+    <Resource Include="Poker\47.png" />
+    <Resource Include="Poker\48.png" />
+    <Resource Include="Poker\49.png" />
+    <Resource Include="Poker\50.png" />
+    <Resource Include="Poker\51.png" />
+    <Resource Include="Poker\54.png" />
+    <Resource Include="Poker\0.png" />
+    <Resource Include="Poker\1.png" />
+    <Resource Include="Poker\10.png" />
+    <Resource Include="Poker\11.png" />
+    <Resource Include="Poker\12.png" />
+    <Resource Include="Poker\13.png" />
+    <Resource Include="Poker\2.png" />
+    <Resource Include="Poker\3.png" />
+    <Resource Include="Poker\4.png" />
+    <Resource Include="Poker\5.png" />
+    <Resource Include="Poker\52.png" />
+    <Resource Include="Poker\53.png" />
+    <Resource Include="Poker\6.png" />
+    <Resource Include="Poker\7.png" />
+    <Resource Include="Poker\8.png" />
+    <Resource Include="Poker\9.png" />
+    <Resource Include="SJB\sjb.png" />
+    <Resource Include="SJB\sjb_b.png" />
+    <Resource Include="SJB\sjb_left_2.png" />
+    <Resource Include="SJB\sjb_right_2.png" />
+    <Resource Include="SJB\sjb_j.png" />
+    <Resource Include="SJB\sjb_left_1.png" />
+    <Resource Include="SJB\sjb_right_1.png" />
+    <Resource Include="SJB\sjb_s.png" />
+    <Resource Include="SJB\sjb_left_0.png" />
+    <Resource Include="SJB\sjb_right_0.png" />
+    <Resource Include="Dice\dice_1.png" />
+    <Resource Include="Dice\dice_2.png" />
+    <Resource Include="Dice\dice_3.png" />
+    <Resource Include="Dice\dice_4.png" />
+    <Resource Include="Dice\dice_5.png" />
+    <Resource Include="Dice\dice_6.png" />
+    <Resource Include="Dice\dice_action_1.png" />
+    <Resource Include="Dice\dice_action_2.png" />
+    <Resource Include="Dice\dice_action_3.png" />
+    <Resource Include="Dice\dice_action_4.png" />
+    <Content Include="Icon\tab_1.png" />
+    <Resource Include="Icon\tab_0.png" />
+    <Content Include="Icon\tab_3.png" />
+    <Content Include="Icon\tab_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\AppResources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>AppResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Coding4Fun.Phone.Controls">
+      <HintPath>E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Coding4Fun.Toolkit.Controls">
+      <HintPath>E:\Windows Phone\新Dll\WP8\Coding4Fun.Toolkit.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Phone.Controls.Toolkit">
+      <HintPath>E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).$(TargetFrameworkVersion).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>

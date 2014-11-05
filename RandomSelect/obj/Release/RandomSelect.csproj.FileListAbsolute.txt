@@ -1,0 +1,93 @@
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\Bin\Release\RandomSelect.dll
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\Bin\Release\RandomSelect.pdb
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\Bin\Release\AppManifest.xaml
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\Bin\Release\RandomSelect_Release_AnyCPU.xap
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\obj\Release\App.g.cs
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\obj\Release\MainPage.g.cs
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\obj\Release\RandomSelect.g.resources
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\obj\Release\RandomSelect.Resources.AppResources.resources
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\obj\Release\RandomSelect.csproj.GenerateResource.Cache
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\obj\Release\RandomSelect.dll
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\obj\Release\RandomSelect.pdb
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\obj\Release\XapCacheFile.xml
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\obj\Release\SettingPage.g.cs
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\Bin\Release\Coding4Fun.Toolkit.Controls.dll
+C:\Users\LIJ\Desktop\RandomSelect\RandomSelect\obj\Release\PivotPageAbout.g.cs
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\Bin\Release\RandomSelect.dll
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\Bin\Release\RandomSelect.pdb
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\Bin\Release\AppManifest.xaml
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\Bin\Release\RandomSelect_Release_AnyCPU.xap
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\Bin\Release\Coding4Fun.Toolkit.Controls.dll
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\obj\Release\App.g.cs
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\obj\Release\MainPage.g.cs
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\obj\Release\PivotPageAbout.g.cs
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\obj\Release\SettingPage.g.cs
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\obj\Release\RandomSelect.g.resources
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\obj\Release\RandomSelect.Resources.AppResources.resources
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\obj\Release\RandomSelect.csproj.GenerateResource.Cache
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\obj\Release\RandomSelect.dll
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\obj\Release\RandomSelect.pdb
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\obj\Release\XapCacheFile.xml
+C:\Users\lython\Desktop\WP\RandomSelect\RandomSelect\obj\Release\RandomSelect.csprojResolveAssemblyReference.cache
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\IconicTileSmall.png
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\Bin\Release\RandomSelect.dll
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\Bin\Release\RandomSelect.pdb
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\Bin\Release\Properties\WMAppManifest.xml
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\Bin\Release\RandomSelect_Release_AnyCPU.xap
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\Bin\Release\Coding4Fun.Toolkit.Controls.dll
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\obj\Release\App.g.cs
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\obj\Release\RandomSelect.g.resources
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\obj\Release\RandomSelect.Resources.AppResources.resources
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\obj\Release\RandomSelect.csproj.GenerateResource.Cache
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\obj\Release\RandomSelect.dll
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\obj\Release\RandomSelect.pdb
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.2\RandomSelect\RandomSelect\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\Bin\Release\Assets\Tiles\IconicTileSmall.png
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\Bin\Release\RandomSelect.dll
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\Bin\Release\RandomSelect.pdb
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\Bin\Release\Properties\WMAppManifest.xml
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\Bin\Release\RandomSelect_Release_AnyCPU.xap
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\Bin\Release\Coding4Fun.Toolkit.Controls.dll
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\obj\Release\App.g.cs
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\obj\Release\RandomSelect.g.resources
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\obj\Release\RandomSelect.Resources.AppResources.resources
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\obj\Release\RandomSelect.csproj.GenerateResource.Cache
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\obj\Release\RandomSelect.dll
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\obj\Release\RandomSelect.pdb
+E:\Windows Phone\提交App\选择恐惧症\1.0.0.3\RandomSelect\RandomSelect\obj\Release\XapCacheFile.xml
