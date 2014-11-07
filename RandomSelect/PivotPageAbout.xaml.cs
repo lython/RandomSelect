@@ -29,7 +29,7 @@ namespace RandomSelect
             //发送电子邮件
             EmailComposeTask task = new EmailComposeTask
             {
-                To = "lython@outlook.com",
+                To = "lython@live.cn",
                 Subject = "[Lython]" + this.aboutPivot.Title.ToString() + version.Label.ToString(),
                 Body = "\n\n\nOEM：" + manufacturer + "\nPHONE：" + name + "\nVERSION：" + OSVersion,
             };
